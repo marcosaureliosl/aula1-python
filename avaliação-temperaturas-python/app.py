@@ -10,3 +10,5 @@ elif temperatura < 26:
     print("Ótimo")
 else:
     print("Quente")
+
+    # meu codigo limpo
